@@ -1,0 +1,83 @@
+##############################################################################
+# fb-zenburnish
+# =============
+#
+# A zenburn wannabe colour scheme for FlashBuilder 4 (b2) Hacked together 
+# by David Wagner, and plopped on:
+#
+#     http://noiseandhead.com
+#
+#
+# The original inspiration zenburn theme for vim can be found at:
+#
+#     http://slinky.imukuppi.org/zenburnpage/
+#
+# Sun Jan 24 23:32:52 GMT 2010
+##############################################################################
+file_export_version=3.0
+/instance/com.adobe.flexide.css.core/cssPropertyNameBold=true
+/instance/com.adobe.flexide.mxml.core/mxmlCommentItalic=true
+/instance/com.adobe.flexide.as.core/asMetadataColor=\#82A282
+/instance/com.adobe.flexide.css.core/cssCommentItalic=true
+/instance/com.adobe.flexide.mxml.core/asASDocBold=true
+/instance/com.adobe.flexide.css.core/cssSymbolColor=\#8F8F8F
+/instance/com.adobe.flexide.css.core/cssPropertyNameColor=\#DFDFBF
+/instance/com.adobe.flexide.css.core/cssImportBold=false
+/instance/com.adobe.flexide.as.core/asTextColor=\#DCDCCC
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=63,63,63
+/instance/org.eclipse.ui.editors/asOccurencesIndicationColor=40,79,40
+/instance/com.adobe.flexide.as.core/asASDocColor=\#7F9F7F
+/instance/com.adobe.flexide.mxml.core/mxmlTextColor=\#DCDCCC
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.inColor=220,220,204
+/instance/com.adobe.flexide.mxml.core/mxmlTagColor=\#CFBFAF
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=18,18,18
+/instance/com.adobe.flexide.as.core/asInterfaceColor=\#EFEFAF
+/instance/org.eclipse.ui.editors/asOccurencesTextStyle=NONE
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.errorColor=128,212,170
+/instance/com.adobe.flexide.css.core/cssMediaColor=\#DCDCCC
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=63,63,63
+/instance/com.adobe.flexide.as.core/asClassColor=\#EFEFAF
+/instance/com.adobe.flexide.css.core/cssPropertyValueBold=true
+/instance/com.adobe.flexide.css.core/cssTextColor=\#DCDCCC
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground.SystemDefault=false
+/instance/com.adobe.flexide.css.core/cssSelectorColor=\#EFEFAF
+/instance/com.adobe.flexide.css.core/cssPropertyValueColor=\#DCA3A3
+/instance/com.adobe.flexide.as.core/asReservedColor=\#F0DFAF
+/instance/com.adobe.flexide.mxml.core/mxmlCommentColor=\#7F9F7F
+/instance/com.adobe.flexide.css.core/cssNamespaceBold=true
+/instance/com.adobe.flexide.css.core/cssNamespaceColor=\#C3BF9F
+/instance/com.adobe.flexide.as.core/asCommentColor=\#7F9F7F
+/instance/com.adobe.flexide.as.core/asInterfaceUnderline=false
+/instance/com.adobe.flexide.css.core/cssStringColor=\#CC9393
+/instance/org.eclipse.ui.editors/hyperlinkColor=99,178,204
+/instance/com.adobe.flexide.as.core/asStringColor=\#CC9393
+/instance/com.adobe.flexide.css.core/cssCommentColor=\#7F9F7F
+/instance/com.adobe.flexide.as.core/asFunctionBold=false
+/instance/com.adobe.flexide.mxml.core/mxmlStringBold=true
+/instance/com.adobe.flexide.css.core/cssStringBold=true
+/instance/com.adobe.flexide.mxml.core/mxmlProcessingInstructionColor=\#F0EFD0
+/instance/org.eclipse.ui.workbench/com.adobe.flexide.mxml.core.stateStylePref=240,240,192
+/instance/com.adobe.flexide.css.core/cssImportUnderline=true
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=227,206,171
+/instance/com.adobe.flexide.as.core/asInterfaceItalic=false
+/instance/com.adobe.flexide.as.core/asOperatorColor=\#F0EFD0
+/instance/org.eclipse.ui.editors/lineNumberColor=159,175,175
+/instance/com.adobe.flexide.mxml.core/mxmlComponentTagBold=true
+/instance/com.adobe.flexide.as.core/asASDocBold=true
+/instance/com.adobe.flexide.as.core/asTraceColor=\#BCA3A3
+/instance/com.adobe.flexide.as.core/asBracketColor=\#F0F0C0
+/instance/com.adobe.flexide.css.core/cssFontFaceColor=\#FFCFAF
+/instance/com.adobe.flexide.as.core/asPackageColor=\#C3BF9F
+/instance/com.adobe.flexide.mxml.core/mxmlStringColor=\#CC9393
+/instance/com.adobe.flexide.mxml.core/asASDocColor=\#7F9F7F
+/instance/com.adobe.flexide.as.core/asFunctionColor=\#EFEF8F
+/instance/com.adobe.flexide.as.core/asVarColor=\#F0DFAF
+/instance/com.adobe.flexide.editorcore/defaultCurrentLineColor=67,68,67
+/instance/org.eclipse.ui.editors/printMarginColor=38,38,38
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
+/instance/org.eclipse.ui.workbench/com.adobe.flexide.editorcore.matchingColor=240,240,192
+/instance/org.eclipse.ui.editors/currentLineColor=67,68,67
+/instance/com.adobe.flexide.editorcore/hyperlinkColor=99,178,204
+/instance/com.adobe.flexide.mxml.core/mxmlComponentTagColor=\#EFEFAF
+/instance/com.adobe.flexide.css.core/cssImportColor=\#DFCFAF
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=220,220,204

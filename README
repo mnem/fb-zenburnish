@@ -1,0 +1,34 @@
+fb-zenburnish
+=============
+
+This file sets your colour scheme within FlashBuilder 4 (b2) to something
+approximating the excellent zenburn colour theme that's really rather
+popular amongst vimheads.
+
+Quick guide for installing it:
+
+0. Launch FlashBuilder.
+1. Choose File -> Export -> Other.
+2. Open General and select Preferences.
+3. Click next, select "Export all" and "Browse…" to save a backup of your
+   current preferences somewhere.
+4. Keep that backup safe in case this all goes titsup.
+5. Choose File -> Export -> Other.
+6. Open General and select Preferences.
+7. Browse to where you've downloaded fb-zenburnish.epf and select it. Make
+   sure "Import all" is selected, ignore any warnings and hit "Finish".
+8. Panic, as your colours look crazy-ass.
+9. Choose File -> Restart to reload Eclipse.
+10.Exhale gently and let the sublime colours wash, soothingly, through your
+   eyeballs, caressing your optic nerves, and then engaging in a group hug
+   with your brain.
+
+
+The real zenburn theme for vim is located here:
+
+  http://slinky.imukuppi.org/zenburnpage/
+
+
+Enjoy!
+
+mnem [http://noiseandheat.com/]
